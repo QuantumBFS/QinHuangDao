@@ -32,7 +32,7 @@ pip install numpy matplotlib ipython
     * select CUDA 8 if you have an Nvidia GPU with properly configured driver
     * select CUDA None if your don't
 
-Clone this repository https://github.com/GiggleLiu/marburg.git to your local host.
+Clone this repository https://github.com/QuantumBFS/QinHuangDao.git to your local host.
 Change directory to project home, check your installation by typing `ipython notebook env_test.ipynb` and run this test script.
 
 ### Online
